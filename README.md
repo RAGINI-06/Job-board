@@ -24,7 +24,4 @@ The design is fully responsive and works perfectly on mobile, tablet, and deskto
 - User profiles to save job applications
 - Backend functionality with a real database for job listings
 
-## 🌐 Live Demo
-[View the live website here](http://127.0.0.1:5500/index.html)
 
-## 📂 Project Structure
